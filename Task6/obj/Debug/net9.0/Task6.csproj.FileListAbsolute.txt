@@ -1,0 +1,14 @@
+C:\Users\mardin\Desktop\Exam.3\TAsk6\obj\Debug\net9.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mardin\Desktop\Exam.3\TAsk6\obj\Debug\net9.0\Task6.AssemblyInfoInputs.cache
+C:\Users\mardin\Desktop\Exam.3\TAsk6\obj\Debug\net9.0\Task6.AssemblyInfo.cs
+C:\Users\mardin\Desktop\Exam.3\TAsk6\obj\Debug\net9.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\mardin\Desktop\Exam.3\Task6\bin\Debug\net9.0\Task6.exe
+C:\Users\mardin\Desktop\Exam.3\Task6\bin\Debug\net9.0\Task6.deps.json
+C:\Users\mardin\Desktop\Exam.3\Task6\bin\Debug\net9.0\Task6.runtimeconfig.json
+C:\Users\mardin\Desktop\Exam.3\Task6\bin\Debug\net9.0\Task6.dll
+C:\Users\mardin\Desktop\Exam.3\Task6\bin\Debug\net9.0\Task6.pdb
+C:\Users\mardin\Desktop\Exam.3\Task6\obj\Debug\net9.0\Task6.dll
+C:\Users\mardin\Desktop\Exam.3\Task6\obj\Debug\net9.0\refint\Task6.dll
+C:\Users\mardin\Desktop\Exam.3\Task6\obj\Debug\net9.0\Task6.pdb
+C:\Users\mardin\Desktop\Exam.3\Task6\obj\Debug\net9.0\Task6.genruntimeconfig.cache
+C:\Users\mardin\Desktop\Exam.3\Task6\obj\Debug\net9.0\ref\Task6.dll
